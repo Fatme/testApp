@@ -5,6 +5,7 @@
     "types": []
   },
   "files": [
+    "../symlinkedPlugin/index.ts",
     "src/main.ts",
     "src/polyfills.ts"
   ],
